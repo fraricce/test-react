@@ -1,0 +1,177 @@
+[
+  {
+    "code": "GRA",
+    "title": "Grana Padano",
+    "description": "Gustosissimo, il re dei formaggi italiani",
+    "longDescription": "Le origini risalgono al XII secolo e la sua nascita è collocata nell'area delle abbazie benedettine e cistercensi situate fra Reggio Emilia e Parma; tuttavia Giovanni Boccaccio nel Decameron spiega che già attorno al 1200-1300 il Parmigiano Reggiano aveva raggiunto caratteristiche del tipo moderno e quindi le sue origini potrebbero risalire a diversi secoli prima. La ricetta potrebbe essere analoga a quella del formaggio piacentino (chiamato il Piacentino) e a quello lodigiano (il Granone Lodigiano), entrambi a pasta dura, e quest'ultimo citato talvolta da fonti romane.",
+    "price": 13.5,
+    "discount": 0,
+    "rating": 5,
+    "category": 1,
+    "imgName":"grana-small.jpg"
+  },
+  {
+    "code": "CACIOC",
+    "title": "Caciocavallo",
+    "description": "Tipico formaggio stagionato a pasta filata proveniente dall'Italia meridionale.",
+    "longDescription": "Il caciocavallo è un formaggio stagionato a pasta filata tipico dell'Italia meridionale. Prodotto con latte di vacca con l'aggiunta di solo caglio, fermenti lattici e sale, si conserva appeso a cavallo (da cui il nome) di una trave per l'essiccazione e si presenta, conseguentemente, sagomato in guisa di numero 8 con due corpi tondeggianti uniti da una strozzatura nel punto di appoggio sulla trave.   Le vacche destinate alla produzione vengono allevate allo stato brado, pascolando nella macchia mediterranea fino alle steppe appenniniche in luoghi ricchi di arbusti ed essenze di sottobosco. La presenza di piante aromatiche nella zona dove si è nutrito l'animale caratterizza le sue note aromatiche e i suoi profumi.",
+    "price": 9.50,
+    "discount": 15,
+    "rating": 3,
+    "category": 1,
+    "imgName":"caciocavallo-small.jpg"
+  },  
+  {
+    "code": "COPPA",
+    "title": "Coppa stagionata",
+    "description": "Insaccato dal sapore marcato, presente nel territorio italiano e nell'isola francese della Corsica",
+    "longDescription": "La coppa, detta anche capocollo, in variante ortografica capicollo (Campania, Molise, Puglia, Basilicata e Calabria), ossocollo (Veneto e Friuli-Venezia Giulia), finocchiata (Siena), capocollo o corpolongo (Alto Lazio e Umbria), lonza (Lazio) o lonzino (Marche e Abruzzo), scamerita o scalmarita (Alta Umbria confinante con la Romagna), capicollu (Corsica)[1] è un insaccato che è presente nel territorio italiano e nell'isola francese della Corsica[1] con varie interpretazioni e ricette, ottenuto dalla lavorazione della porzione superiore del collo del maiale e da una parte della spalla (questo ne giustifica il nome). Con questo nome si intende anche una parte del maiale, ottima per la cottura alla brace, alla griglia o pietra ollare. Prende nomi differenti a seconda della regione.",
+    "price": 4.8,
+    "discount": 10,
+    "rating": 4,
+    "category": 2,
+    "imgName":"coppa-small.jpg"
+  },
+  {
+    "code": "GORGO",
+    "title": "Gorgonzola",
+    "description": "Formaggio erborinato, dal gusto intenso prodotto in Italia dal latte intero di vacca",
+    "longDescription": "Non si conosce con esattezza il periodo della nascita di questo formaggio. Da alcune fonti viene datato all'anno 879, anche se sembra non contenesse venature colorate prima dell'XI secolo. Molte più tracce storiche se ne hanno a partire del XV secolo nella cittadina di Gorgonzola, nei pressi di Milano. Narra infatti la leggenda che un mandriano, arrivato a Gorgonzola, lasciò in un recipiente del latte cagliato; in una sosta successiva, essendo sprovvisto degli utensili necessari per la lavorazione del latte, aggiunse alla prima cagliata un'altra cagliata. Dopo diversi giorni si accorse di aver ottenuto un formaggio con delle venature verdi molto appetitoso per la mescolanza della cagliata fredda della sera con la cagliata tiepida del mattino. Oggi con le nuove tecniche di fabbricazione si ottiene un prodotto igienicamente molto più valido. Nell'Ottocento la produzione di questo formaggio crebbe sensibilmente ed esso venne esportato, oltre che in altri territori italiani, anche in Inghilterra.",
+    "price": 12.00,
+    "discount": 10,
+    "rating": 4,
+    "category": 1,
+    "imgName":"gorgonzola-small.jpg"
+  },  
+  {
+    "code": "OLIVETAG",
+    "title": "Olive taggiasche",
+    "description": "Sapore deciso tipico della semplice cucina ligure",
+    "longDescription": "È così chiamata perché arrivò a Taggia, qui portata, selezionata e diffusa dai monaci benedettini bianchi di San Colombano, provenienti dall'isola monastero di Lerino in accordo con i monaci della stessa regola dell'abbazia di San Dalmazzo di Pedona tenutari del feudo taggiasco e dell'imperiese; in seguito venne diffusa anche nel savonese grazie ai monaci dell'abbazia di San Martino dell'Isola Gallinara di Albenga. Gli innesti di oliva taggiasca furono nei secoli diffusi in tutta Italia, sebbene la coltivazione maggiore sia sempre rimasta nella provincia di Imperia; questa varietà risulta essere una delle più rinomate per produzione di olio extravergine e una delle migliori olive da mensa, poiché il frutto è molto gustoso.",
+    "price": 12.80,
+    "discount": 0,
+    "rating": 3,
+    "category": 4,
+    "imgName":"olive-small.jpg"
+  },
+  {
+    "code": "CACIOT",
+    "title": "Caciotta",
+    "description": "Formaggio di antica tradizione paesana",
+    "longDescription": "In origine questo prodotto caseario veniva preparato esclusivamente con latte di pecora, mentre oggi se ne trovano pure di vaccine, caprine, oppure a latte misto. Vengono proposte sia piuttosto fresche sia stagionate, dopo aver maturato per circa 2 mesi dentro delle botti o ad anfore di terracotta. Rispetto alla tradizionale preparazione casearia, si presentano delle differenze: a pasta cruda o semicotta a 45° circa, ed in qualche caso si pratica la scottatura delle forme nel siero bollente, una volta salate. Si trovano inoltre in commercio caciotte aromatizzate, al tartufo o al peperoncino.",
+    "price": 28.00,
+    "discount": 0,
+    "rating": 5,
+    "category": 1,
+    "imgName":"caciotta-small.jpg"
+  },  
+  {
+    "code": "LARDO",
+    "title": "Lardo paesano con spezie",
+    "description": "Un ottimo salume della tradizione contadina",
+    "longDescription": "Il tipo di lardo più conosciuto è probabilmente il lardo di Colonnata che, per il suo gusto unico e la sua delicatezza, ha reso famosa la località toscana da cui prende nome. La qualità del lardo dipende dalla scelta delle materie prime (dalla qualità del grasso fresco, che deve essere di suino pesante, agli aromi con i quali viene strofinato) e dalla sapiente arte della stagionatura, che ancora oggi viene fatta nelle vasche di marmo (conche) in cui il prodotto rimane per circa 6 mesi. Un altro tipo è il lardo di Arnad che, a differenza del precedente, viene stagionato in vasche di legno e insaporito con aromi come ginepro, alloro, noce moscata, salvia e rosmarino. Lardo di Arnad è una Denominazione di origine protetta. Il lardo è stato riconosciuto dal Ministero delle politiche agricole alimentari e forestali come prodotto tradizionale, su proposta della Basilicata e del Piemonte.",
+    "price": 9.00,
+    "discount": 0,
+    "rating": 4,
+    "category": 2,
+    "imgName":"lardo-small.jpg"
+  },  
+  {
+    "code": "PROCOT",
+    "title": "Prosciutto cotto stagionato",
+    "description": "Il più famoso insaccato adatto a ogni occasione",
+    "longDescription": "Il prosciutto cotto è un salume tipico italiano ottenuto dalla salatura e cottura della coscia del maiale. Si definisce prosciutto cotto unicamente il salume derivato dal taglio anatomico di riferimento, che si chiama infatti prosciutto. Un salume simile, ricavato invece dalla spalla del maiale (meno pregiato, ma simile a livello nutrizionale) viene denominato spalla cotta.",    
+    "price": 12.80,
+    "discount": 0,
+    "rating": 3,
+    "category": 2,
+    "imgName":"cotto-small.jpg"
+  },  
+  {
+    "code": "PROCRU",
+    "title": "Prosciutto crudo alta qualità",
+    "description": "Sapido e gustoso, un insaccato tipico delle nostre cucine",
+    "longDescription": "Il prosciutto crudo è un salume tipico italiano (prodotto agroalimentare tipico italiano) ottenuto dalla salatura a secco dalla coscia del maiale, in particolare da animali che hanno raggiunto un peso intorno ai 150 kg. Specialità ottenute dallo stesso taglio anatomico in nazioni diverse dall'Italia assumono nomi specifici e non possono essere assimilate al prodotto italiano,[2] soprattutto in virtù del fatto che la specificità del prosciutto crudo italiano risiede nelle particolari tecniche produttive e nella stagionatura in microclimi specifici.",     "price": 4.8,
+    "discount": 0,
+    "rating": 4,
+    "category": 2,
+    "imgName":"crudo-small.jpg"
+  },
+  {
+    "code": "BRESA",
+    "title": "Bresaola Ligure",
+    "description": "Bresaola dell'entroterra ligure",
+    "longDescription": "La bresaola è un salume italiano, formato di carne di manzo salata ed essiccata, tipico della Valtellina[1][2][3] e, da alcuni decenni, della Val d'Ossola. È un salume crudo, a pezzo intero, non affumicato. La bresaola della Valtellina è stata riconosciuta come prodotto IGP, ma in generale la bresaola è diffusa in diverse zone dell'Italia settentrionale, in cui vengono prodotti vari tipi dell'affettato[5] o varianti che utilizzano altre carni (bufalo, cavallo, cervo o maiale).",  
+    "price": 12.2,
+    "discount": 0,
+    "rating": 3,
+    "category": 2,
+    "imgName":"bresaola-small.jpg"
+  },
+  {
+    "code": "SALAME",
+    "title": "Salamino Sant'Olcese",
+    "description": "Salame Genovese di Sant'Olcese",
+    "longDescription": "Il comune di Sant'Olcese (e un tempo anche la confinante frazione Orero del comune di Serra Riccò) è noto per la produzione del tipico salame macinato a grana grossa e a limitata stagionatura. Sembra che gli antichi Liguri che abitavano la Valpolcevera avessero appreso dai Romani le tecniche per la conservazione delle carni suine. Queste tecniche sono state tramandate per secoli dai contadini della zona di Sant'Olcese, dove un tempo era diffuso l'allevamento dei suini. Il salame chiamato di Sant'Olcese fu prodotto per la prima volta a Orero, oggi frazione del comune di Serra Riccò, ma che sino al 1877 faceva parte del comune di Sant'Olcese. La produzione a livello industriale e il successo commerciale nell'area genovese iniziarono sicuramente prima dell'inizio del XIX secolo. Attualmente la produzione di questo salume è limitata a due salumifici di Sant'Olcese, entrambi di antiche origini.",
+    "price": 4.8,
+    "discount": 0,
+    "rating": 4,
+    "category": 2,
+    "imgName":"salame-small.jpg"
+  },
+  {
+    "code": "STRACC",
+    "title": "Stracchino del Vecchio Borgo",
+    "description": "Stracchino consistente e deciso",
+    "longDescription": "Lo stracchino (strachin in lingua lombarda) (dal lombardo strach, derivante dal longobardo strak, con il significato di stanco) è un formaggio italiano a pasta molle e cruda e di breve stagionatura prodotto con latte vaccino intero, che può essere latte crudo (tipicamente, quelli prodotti in malga o alpeggio) oppure a latte pastorizzato, comunque sempre intero (una variante di stracchino è preparata con latte bufalino o con latte di capra[1]), presentandosi come un formaggio grasso e morbido, con crosta spesso sottile e tenera (buccia), dal colore bianco (sono forme di stracchino la crescenza, la robiola, il taleggio, lo strachitunt, il gorgonzola[2] e il salva cremasco[3]). Nell'alto Verbano, nell'Oltrepò Pavese, nelle province di Piacenza e Cremona, in provincia di Sondrio e nelle valli del Cantone Ticino il nome di stracchino viene usato anche per indicare il gorgonzola. Oltre alla Lombardia, anche la Toscana lo ha inserito nell'elenco dei prodotti agroalimentari tradizionali italiani.",
+    "price": 4.8,
+    "discount": 0,
+    "rating": 4,
+    "category": 1,
+    "imgName":"stracchino-small.jpg"
+  },
+  {
+    "code": "ACETO",
+    "title": "Aceto Balsamico di Modena IGP",
+    "description": "Un tocco impareggiabile alla tua cucina",
+    "longDescription": "L'Aceto Balsamico di Modena è un condimento a Indicazione geografica protetta (IGP). Si produce secondo varie ricette. Il disciplinare di produzione IGP lascia ampio margine di azione, prevedendo l'utilizzo di mosto di uva (anche non proveniente dalle province di Modena e Reggio Emilia) in percentuali tra il 20 e il 90% e di aceto di vino dal 10 all'80%. È consentito l'uso di caramello, fino al 2%. La lettura dell'etichetta può fornire utili informazioni sugli ingredienti usati e sui metodi di lavorazione. Non sono previsti i prelievi e i rincalzi, tipici dell'Aceto Balsamico Tradizionale; gli ingredienti, una volta miscelati, devono essere tenuti per almeno 60 giorni in contenitori di legno. È ammessa la dicitura invecchiato per il prodotto di almeno 3 anni. L'Aceto Balsamico di Modena ha ottenuto il marchio di indicazione geografica protetta (IGP) il 3 luglio 2009.",
+    "price": 4.8,
+    "discount": 0,
+    "rating": 4,
+    "category": 4,
+    "imgName":"aceto-small.jpg"
+  },
+  {
+    "code": "TONNO",
+    "title": "Filetti di Tonno Alta qualità",
+    "description": "Tonno mediterraneo a filetti",
+    "longDescription": "Le varie parti del tonno (ventresca, filetti, bottarga, mosciame, lattume, cuore, buzzonaglia) vengono utilizzate per la preparazione di piatti che ne prevedono l'uso crudo, come nel sushi o nel sashimi, e cotto. Viene anche conservato sott'olio o al naturale (in acqua salata), generalmente confezionato in scatolette metalliche o vasetti di vetro. Normalmente in Italia il tonno maggiormente commercializzato è il tonno pinna gialla (yellowfin), la specie oceanica più diffusa e per questo di prezzo in genere più basso, mentre il tonno rosso (bluefin), tipico del Mediterraneo, è in via di estinzione. In Spagna è utilizzato anche il tonno alalunga. Da alcuni anni il più diffuso al mondo per l'inscatolamento sott'olio è il tonnetto striato.",
+    "price": 4.8,
+    "discount": 0,
+    "rating": 4,
+    "category": 4,
+    "imgName":"tonno-small.jpg"
+  },
+  {
+    "code": "ACCIUGHE",
+    "title": "Filetti di Acciughe",
+    "description": "Saporiti filetti di acciughe",
+    "longDescription": "Le varie parti del tonno (ventresca, filetti, bottarga, mosciame, lattume, cuore, buzzonaglia) vengono utilizzate per la preparazione di piatti che ne prevedono l'uso crudo, come nel sushi o nel sashimi, e cotto. Viene anche conservato sott'olio o al naturale (in acqua salata), generalmente confezionato in scatolette metalliche o vasetti di vetro. Normalmente in Italia il tonno maggiormente commercializzato è il tonno pinna gialla (yellowfin), la specie oceanica più diffusa e per questo di prezzo in genere più basso, mentre il tonno rosso (bluefin), tipico del Mediterraneo, è in via di estinzione. In Spagna è utilizzato anche il tonno alalunga. Da alcuni anni il più diffuso al mondo per l'inscatolamento sott'olio è il tonnetto striato.",
+    "price": 4.8,
+    "discount": 0,
+    "rating": 4,
+    "category": 4,
+    "imgName":"acciughe-small.jpg"
+  },
+  {
+    "code": "CAPON",
+    "title": "Caponata",
+    "description": "Gustosa caponata",
+    "longDescription": "Le varie parti del tonno (ventresca, filetti, bottarga, mosciame, lattume, cuore, buzzonaglia) vengono utilizzate per la preparazione di piatti che ne prevedono l'uso crudo, come nel sushi o nel sashimi, e cotto. Viene anche conservato sott'olio o al naturale (in acqua salata), generalmente confezionato in scatolette metalliche o vasetti di vetro. Normalmente in Italia il tonno maggiormente commercializzato è il tonno pinna gialla (yellowfin), la specie oceanica più diffusa e per questo di prezzo in genere più basso, mentre il tonno rosso (bluefin), tipico del Mediterraneo, è in via di estinzione. In Spagna è utilizzato anche il tonno alalunga. Da alcuni anni il più diffuso al mondo per l'inscatolamento sott'olio è il tonnetto striato.",
+    "price": 4.8,
+    "discount": 0,
+    "rating": 4,
+    "category": 3,
+    "imgName":"caponata-small.jpg"
+  }
+]
