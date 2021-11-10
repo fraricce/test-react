@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/test-react/static/css/main.071f116b.chunk.css",
-    "main.js": "/test-react/static/js/main.98f810bf.chunk.js",
-    "main.js.map": "/test-react/static/js/main.98f810bf.chunk.js.map",
-    "runtime-main.js": "/test-react/static/js/runtime-main.5ba44913.js",
-    "runtime-main.js.map": "/test-react/static/js/runtime-main.5ba44913.js.map",
+    "main.js": "/test-react/static/js/main.dfd42ee3.chunk.js",
+    "main.js.map": "/test-react/static/js/main.dfd42ee3.chunk.js.map",
+    "runtime-main.js": "/test-react/static/js/runtime-main.2a181742.js",
+    "runtime-main.js.map": "/test-react/static/js/runtime-main.2a181742.js.map",
     "static/css/2.35ac964c.chunk.css": "/test-react/static/css/2.35ac964c.chunk.css",
-    "static/js/2.b18ade9d.chunk.js": "/test-react/static/js/2.b18ade9d.chunk.js",
-    "static/js/2.b18ade9d.chunk.js.map": "/test-react/static/js/2.b18ade9d.chunk.js.map",
-    "static/js/3.c529f755.chunk.js": "/test-react/static/js/3.c529f755.chunk.js",
-    "static/js/3.c529f755.chunk.js.map": "/test-react/static/js/3.c529f755.chunk.js.map",
+    "static/js/2.ea3d5a13.chunk.js": "/test-react/static/js/2.ea3d5a13.chunk.js",
+    "static/js/2.ea3d5a13.chunk.js.map": "/test-react/static/js/2.ea3d5a13.chunk.js.map",
+    "static/js/3.4438ebeb.chunk.js": "/test-react/static/js/3.4438ebeb.chunk.js",
+    "static/js/3.4438ebeb.chunk.js.map": "/test-react/static/js/3.4438ebeb.chunk.js.map",
     "index.html": "/test-react/index.html",
     "static/css/2.35ac964c.chunk.css.map": "/test-react/static/css/2.35ac964c.chunk.css.map",
     "static/css/main.071f116b.chunk.css.map": "/test-react/static/css/main.071f116b.chunk.css.map",
-    "static/js/2.b18ade9d.chunk.js.LICENSE.txt": "/test-react/static/js/2.b18ade9d.chunk.js.LICENSE.txt",
+    "static/js/2.ea3d5a13.chunk.js.LICENSE.txt": "/test-react/static/js/2.ea3d5a13.chunk.js.LICENSE.txt",
     "static/media/acciughe-small.jpg": "/test-react/static/media/acciughe-small.76090377.jpg",
     "static/media/aceto-small.jpg": "/test-react/static/media/aceto-small.839eb189.jpg",
     "static/media/bresaola-small.jpg": "/test-react/static/media/bresaola-small.c3a98c7b.jpg",
@@ -29,8 +29,8 @@
     "static/media/grana-small.jpg": "/test-react/static/media/grana-small.fbfe9f07.jpg",
     "static/media/help.PNG": "/test-react/static/media/help.b38535b3.PNG",
     "static/media/home-landscape-promo.png": "/test-react/static/media/home-landscape-promo.03f31f8b.png",
-    "static/media/home-landscape-small-2.png": "/test-react/static/media/home-landscape-small-2.94d0f1a2.png",
-    "static/media/home-landscape-small.png": "/test-react/static/media/home-landscape-small.0aa66880.png",
+    "static/media/home-landscape-small-2.png": "/test-react/static/media/home-landscape-small-2.aa5f1fcc.png",
+    "static/media/home-landscape-small.png": "/test-react/static/media/home-landscape-small.e834c32a.png",
     "static/media/home-landscape.png": "/test-react/static/media/home-landscape.38f7586a.png",
     "static/media/lardo-small.jpg": "/test-react/static/media/lardo-small.cd44f1ff.jpg",
     "static/media/medium-ammonite-rock.jpg": "/test-react/static/media/medium-ammonite-rock.8a1097ca.jpg",
@@ -51,10 +51,10 @@
     "static/media/tonno-small.jpg": "/test-react/static/media/tonno-small.bcdb3e74.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5ba44913.js",
+    "static/js/runtime-main.2a181742.js",
     "static/css/2.35ac964c.chunk.css",
-    "static/js/2.b18ade9d.chunk.js",
+    "static/js/2.ea3d5a13.chunk.js",
     "static/css/main.071f116b.chunk.css",
-    "static/js/main.98f810bf.chunk.js"
+    "static/js/main.dfd42ee3.chunk.js"
   ]
 }
