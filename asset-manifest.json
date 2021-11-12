@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/test-react/static/css/main.071f116b.chunk.css",
-    "main.js": "/test-react/static/js/main.70ca5775.chunk.js",
-    "main.js.map": "/test-react/static/js/main.70ca5775.chunk.js.map",
+    "main.js": "/test-react/static/js/main.6e646824.chunk.js",
+    "main.js.map": "/test-react/static/js/main.6e646824.chunk.js.map",
     "runtime-main.js": "/test-react/static/js/runtime-main.2a181742.js",
     "runtime-main.js.map": "/test-react/static/js/runtime-main.2a181742.js.map",
     "static/css/2.35ac964c.chunk.css": "/test-react/static/css/2.35ac964c.chunk.css",
@@ -29,8 +29,8 @@
     "static/media/grana-small.jpg": "/test-react/static/media/grana-small.fbfe9f07.jpg",
     "static/media/help.PNG": "/test-react/static/media/help.b38535b3.PNG",
     "static/media/home-landscape-promo.png": "/test-react/static/media/home-landscape-promo.03f31f8b.png",
-    "static/media/home-landscape-small-2.png": "/test-react/static/media/home-landscape-small-2.aa5f1fcc.png",
-    "static/media/home-landscape-small.png": "/test-react/static/media/home-landscape-small.e834c32a.png",
+    "static/media/home-landscape-small-2.png": "/test-react/static/media/home-landscape-small-2.bdfc3ce3.png",
+    "static/media/home-landscape-small.png": "/test-react/static/media/home-landscape-small.d50de014.png",
     "static/media/home-landscape.png": "/test-react/static/media/home-landscape.38f7586a.png",
     "static/media/lardo-small.jpg": "/test-react/static/media/lardo-small.cd44f1ff.jpg",
     "static/media/medium-ammonite-rock.jpg": "/test-react/static/media/medium-ammonite-rock.8a1097ca.jpg",
@@ -55,6 +55,6 @@
     "static/css/2.35ac964c.chunk.css",
     "static/js/2.5465e737.chunk.js",
     "static/css/main.071f116b.chunk.css",
-    "static/js/main.70ca5775.chunk.js"
+    "static/js/main.6e646824.chunk.js"
   ]
 }
