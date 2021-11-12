@@ -1,0 +1,35 @@
+[
+  {
+    "code": 1,
+    "title": "Formaggi",
+    "description": "Discover our selection of fossil from all the world",
+    "subcategories" : [
+      { "code" : "1", "title": "Ammonites" },
+      { "code" : "2", "title": "Crustaceans" },
+      { "code" : "3", "title": "Dinosaur" },
+      { "code" : "4", "title": "Petrified wood" },
+      { "code" : "5", "title": "Trilobites" }
+    ]
+  },
+  {
+    "code": 2,
+    "title": "Salumi",
+    "subcategories" : [
+      { "code" : "1", "title": "Bivalves" },
+      { "code" : "2", "title": "Conus" }
+    ]    
+  },
+  {
+    "code": 3,
+    "title": "Pronti in tavola",
+    "subcategories" : [
+      { "code" : "1", "title": "Agates" },
+      { "code" : "2", "title": "Amethyst" },
+      { "code" : "3", "title": "Aquamarine" }
+    ]   
+  },
+  {
+    "code": 4,
+    "title": "Gourmandise"
+  }
+]
