@@ -8,7 +8,8 @@
     "discount": 0,
     "rating": 5,
     "category": 1,
-    "imgName": "grana-small.jpg"
+    "imgName": "grana-small.jpg",
+    "uom":"hg"
   },
   {
     "code": "CACIOC",
@@ -19,7 +20,8 @@
     "discount": 15,
     "rating": 3,
     "category": 1,
-    "imgName": "caciocavallo-small.jpg"
+    "imgName": "caciocavallo-small.jpg",
+    "uom":"hg"
   },
   {
     "code": "COPPA",
@@ -30,7 +32,8 @@
     "discount": 10,
     "rating": 4,
     "category": 2,
-    "imgName": "coppa-small.jpg"
+    "imgName": "coppa-small.jpg",
+    "uom":"hg"
   },
   {
     "code": "GORGO",
@@ -41,7 +44,8 @@
     "discount": 10,
     "rating": 4,
     "category": 1,
-    "imgName": "gorgonzola-small.jpg"
+    "imgName": "gorgonzola-small.jpg",
+    "uom":"hg"
   },
   {
     "code": "OLIVETAG",
@@ -52,7 +56,8 @@
     "discount": 0,
     "rating": 3,
     "category": 4,
-    "imgName": "olive-small.jpg"
+    "imgName": "olive-small.jpg",
+    "uom":"unit"
   },
   {
     "code": "CACIOT",
@@ -63,7 +68,8 @@
     "discount": 0,
     "rating": 5,
     "category": 1,
-    "imgName": "caciotta-small.jpg"
+    "imgName": "caciotta-small.jpg",
+    "uom":"hg"
   },
   {
     "code": "LARDO",
@@ -74,7 +80,8 @@
     "discount": 0,
     "rating": 4,
     "category": 2,
-    "imgName": "lardo-small.jpg"
+    "imgName": "lardo-small.jpg",
+    "uom":"hg"
   },
   {
     "code": "PROCOT",
@@ -85,7 +92,8 @@
     "discount": 0,
     "rating": 3,
     "category": 2,
-    "imgName": "cotto-small.jpg"
+    "imgName": "cotto-small.jpg",
+    "uom":"hg"
   },
   {
     "code": "PROCRU",
@@ -96,7 +104,8 @@
     "discount": 0,
     "rating": 4,
     "category": 2,
-    "imgName": "crudo-small.jpg"
+    "imgName": "crudo-small.jpg",
+    "uom":"hg"
   },
   {
     "code": "BRESA",
@@ -107,7 +116,8 @@
     "discount": 0,
     "rating": 3,
     "category": 2,
-    "imgName": "bresaola-small.jpg"
+    "imgName": "bresaola-small.jpg",
+    "uom":"hg"
   },
   {
     "code": "SALAME",
@@ -118,7 +128,8 @@
     "discount": 0,
     "rating": 4,
     "category": 2,
-    "imgName": "salame-small.jpg"
+    "imgName": "salame-small.jpg",
+    "uom":"hg"
   },
   {
     "code": "STRACC",
@@ -129,7 +140,8 @@
     "discount": 0,
     "rating": 4,
     "category": 1,
-    "imgName": "stracchino-small.jpg"
+    "imgName": "stracchino-small.jpg",
+    "uom":"hg"
   },
   {
     "code": "ACETO",
@@ -140,7 +152,8 @@
     "discount": 0,
     "rating": 4,
     "category": 4,
-    "imgName": "aceto-small.jpg"
+    "imgName": "aceto-small.jpg",
+    "uom":"unit"
   },
   {
     "code": "TONNO",
@@ -151,7 +164,8 @@
     "discount": 0,
     "rating": 4,
     "category": 4,
-    "imgName": "tonno-small.jpg"
+    "imgName": "tonno-small.jpg",
+    "uom":"unit"
   },
   {
     "code": "ACCIUGHE",
@@ -162,7 +176,8 @@
     "discount": 0,
     "rating": 4,
     "category": 4,
-    "imgName": "acciughe-small.jpg"
+    "imgName": "acciughe-small.jpg",
+    "uom":"unit"
   },
   {
     "code": "CAPON",
@@ -173,6 +188,44 @@
     "discount": 0,
     "rating": 4,
     "category": 3,
-    "imgName": "caponata-small.jpg"
+    "imgName": "caponata-small.jpg",
+    "uom":"hg"
+  },
+  {
+    "code": "POLP",
+    "title": "Polpettone alla Genovese",
+    "description": "Una ricetta classica di Genova, un piatto pronto ricco e gustoso",
+    "longDescription": "Le varie parti del tonno (ventresca, filetti, bottarga, mosciame, lattume, cuore, buzzonaglia) vengono utilizzate per la preparazione di piatti che ne prevedono l'uso crudo, come nel sushi o nel sashimi, e cotto. Viene anche conservato sott'olio o al naturale (in acqua salata), generalmente confezionato in scatolette metalliche o vasetti di vetro. Normalmente in Italia il tonno maggiormente commercializzato è il tonno pinna gialla (yellowfin), la specie oceanica più diffusa e per questo di prezzo in genere più basso, mentre il tonno rosso (bluefin), tipico del Mediterraneo, è in via di estinzione. In Spagna è utilizzato anche il tonno alalunga. Da alcuni anni il più diffuso al mondo per l'inscatolamento sott'olio è il tonnetto striato.",
+    "price": 5.25,
+    "discount": 0,
+    "rating": 4,
+    "category": 3,
+    "imgName": "polpettone-small.jpg",
+    "uom":"hg"
+  },
+  {
+    "code": "FOCOL",
+    "title": "Focaccia alle olive",
+    "description": "Golosa variante della focaccia genovese, con olive",
+    "longDescription": "Le varie parti del tonno (ventresca, filetti, bottarga, mosciame, lattume, cuore, buzzonaglia) vengono utilizzate per la preparazione di piatti che ne prevedono l'uso crudo, come nel sushi o nel sashimi, e cotto. Viene anche conservato sott'olio o al naturale (in acqua salata), generalmente confezionato in scatolette metalliche o vasetti di vetro. Normalmente in Italia il tonno maggiormente commercializzato è il tonno pinna gialla (yellowfin), la specie oceanica più diffusa e per questo di prezzo in genere più basso, mentre il tonno rosso (bluefin), tipico del Mediterraneo, è in via di estinzione. In Spagna è utilizzato anche il tonno alalunga. Da alcuni anni il più diffuso al mondo per l'inscatolamento sott'olio è il tonnetto striato.",
+    "price": 1.20,
+    "discount": 0,
+    "rating": 4,
+    "category": 3,
+    "imgName": "focaccia-small.jpg",
+    "uom":"hg"
+  },
+  {
+    "code": "IRUS",
+    "title": "Insalata Russa",
+    "description": "Preparata artigianalmente con ingredienti freschi",
+    "longDescription": "Le varie parti del tonno (ventresca, filetti, bottarga, mosciame, lattume, cuore, buzzonaglia) vengono utilizzate per la preparazione di piatti che ne prevedono l'uso crudo, come nel sushi o nel sashimi, e cotto. Viene anche conservato sott'olio o al naturale (in acqua salata), generalmente confezionato in scatolette metalliche o vasetti di vetro. Normalmente in Italia il tonno maggiormente commercializzato è il tonno pinna gialla (yellowfin), la specie oceanica più diffusa e per questo di prezzo in genere più basso, mentre il tonno rosso (bluefin), tipico del Mediterraneo, è in via di estinzione. In Spagna è utilizzato anche il tonno alalunga. Da alcuni anni il più diffuso al mondo per l'inscatolamento sott'olio è il tonnetto striato.",
+    "price": 8.50,
+    "discount": 0,
+    "rating": 4,
+    "category": 3,
+    "imgName": "russa-small.jpg",
+    "uom":"hg"
   }
+ 
 ]
